@@ -1,0 +1,14 @@
+server:
+  port: 8090
+
+elasticsearch:
+  host: 172.16.20.61
+  port: 9200
+  connTimeout: 3000
+  socketTimeout: 5000
+  connectionRequestTimeout: 500
+
+
+redis:
+  host: 172.16.20.61
+  port: 6379
